@@ -6,13 +6,7 @@ Standard Request: Get the latest exchange rates for a specified currency.
 Pair Conversion Request: Get the exchange rate between two specified currencies.
 Pair Conversion with Amount Request: Get the converted amount between two specified currencies.
 Setup
-Clone the repository:
-git clone https://github.com/IvanDec0/alura_java_challenge.git
-Open the project in IntelliJ IDEA.
-Usage
-Run the Main class located in the src/alura_java_challenge package.
 
-Follow the on-screen prompts to choose a request type and enter the required information.
 
 Code Overview
 Main Class
